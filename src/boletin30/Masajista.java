@@ -5,10 +5,7 @@
  */
 package boletin30;
 
-/**
- *
- * @author oquintansocampo
- */
+
 public class Masajista extends SeleccionFutbol {
 
     private String titulacion;

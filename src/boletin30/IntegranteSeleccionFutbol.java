@@ -5,10 +5,7 @@
  */
 package boletin30;
 
-/**
- *
- * @author oquintansocampo
- */
+
 public interface IntegranteSeleccionFutbol {
 
     void concentrarse();

@@ -5,10 +5,6 @@
  */
 package boletin30;
 
-/**
- *
- * @author oquintansocampo
- */
 public class Entrenador extends SeleccionFutbol {
 
     private int idFede;

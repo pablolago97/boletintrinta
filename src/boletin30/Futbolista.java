@@ -5,10 +5,7 @@
  */
 package boletin30;
 
-/**
- *
- * @author oquintansocampo
- */
+
 public class Futbolista extends SeleccionFutbol {
 
     private int dorsal;

@@ -5,10 +5,7 @@
  */
 package boletin30;
 
-/**
- *
- * @author oquintansocampo
- */
+
 public abstract class SeleccionFutbol implements IntegranteSeleccionFutbol {
 
     protected int id;
